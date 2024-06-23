@@ -25,7 +25,7 @@ As of now, the application supports the following visa types :
 ## Installation
 - git clone https://github.com/roozbehhaghiri/Auslaenderbehoerde-Berlin-Termin.git
 - Setup a virtual environments
-- Install requirements via pip3 install -r requirements.txt
+- Install requirements via ** pip3 install -r requirements.txt**
 - Download a [Chromedriver](https://developer.chrome.com/docs/chromedriver/downloads?hl=de) and save it's path in .env
 - Configure app.py according to your visa's type
 - Start the app.py
