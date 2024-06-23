@@ -23,7 +23,7 @@ As of now, the application supports the following visa types :
 - **Living with Partner**: Currently supports scenarios where the applicant does not live with a partner.
 
 ## Installation
-- git clone [https://github.com/roozbehhaghiri/Termin-Auslaenderbehoerde.git]
+- git clone https://github.com/roozbehhaghiri/Termin-Auslaenderbehoerde.git
 - Setup a virtual environments
 - Install requirements via **pip3 install -r requirements.txt**
 - Download a [Chromedriver](https://developer.chrome.com/docs/chromedriver/downloads?hl=de) and save it's path in .env
